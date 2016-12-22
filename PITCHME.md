@@ -1,7 +1,7 @@
 TDD
 
 #HSLIDE
-TDD in a nutshell
+## TDD in a nutshell
 
 1. Write a failing test
 2. Write minimum amount of code to satisfy it
@@ -9,18 +9,18 @@ TDD in a nutshell
 
 #HSLIDE
 
-##Writing the test
+##Writing a test
 
-Focus on the behaviour and treat the code as black box
-Feed it with input and verify its output
+* Focus on the behavior and treat the code as black box
+* Feed it with input and verify its output
 
 #HSLIDE
 
 ##Writing the code
 
-Write only the code that satisfies the test
-Do not write code for future use
-Do not optimize
+* Write only the code that satisfies the test
+* Do not write code for future use
+* Do not optimize
 
 #HSLIDE
 
@@ -49,3 +49,16 @@ Kata
 8. A single char delimiter can be defined on the first line (e.g. //# for a ‘#’ as the delimiter)
 9. A multi char delimiter can be defined on the first line (e.g. //[###] for ‘###’ as the delimiter)
 10. Many single or multi-char delimiters can be defined (each wrapped in square brackets)
+
+#HSLIDE
+## How to learn TDD?
+Practice TDD Kata for 30 minutes every day
+
+#HSLIDE
+## Every day ???
+
+#HSLIDE
+## Yes
+
+#HSLIDE
+## Thank you
